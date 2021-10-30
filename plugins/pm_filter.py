@@ -362,7 +362,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('❔ How To Use Me ❔', url=f'http://t.me/Elon_Musk_M2Bot?startgroup=true')
+            InlineKeyboardButton('❔ How To Use Me ❔', url='http://t.me/Elon_Muskbot_M2')
             ],[
             InlineKeyboardButton('Search Here🔎', switch_inline_query_current_chat=''),
             InlineKeyboardButton('Mydev🧑', url='https://t.me/EvaMariaUpdates')
@@ -387,7 +387,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Extra Mods', callback_data='extra')
             ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
-            InlineKeyboardButton('🔮 Status', callback_data='stats')
+            InlineKeyboardButton('📊 Status', callback_data='stats')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
