@@ -64,13 +64,15 @@ async def start(client, message):
         return
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay"]:
         buttons = [[
+            InlineKeyboardButton('❔ How To Use Me ❔', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            ],[
+            InlineKeyboardButton('Search Here🔎', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('Mydev🧑', url='https://t.me/EvaMariaUpdates')
+            ],[
+            InlineKeyboardButton('Help⚙', callback_data='help'),
+            InlineKeyboardButton('About😎', callback_data='about')
+            ],[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-            ],[
-            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 Updates', url='https://t.me/EvaMariaUpdates')
-            ],[
-            InlineKeyboardButton('ℹ️ Help', callback_data='help'),
-            InlineKeyboardButton('😊 About', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
