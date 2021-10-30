@@ -22,7 +22,7 @@ async def start(client, message):
             InlineKeyboardButton('❔ How To Use Me ❔', url='http://t.me/Elon_Muskbot_M2')
             ],[
             InlineKeyboardButton('Search Here🔎', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Mydev🧑‍💻', url='https://t.me/EvaMariaUpdates')
+            InlineKeyboardButton('Mydev🧑‍💻', url='https://t.me/ask_admin01')
             ],[
             InlineKeyboardButton('Help⚙', callback_data='help'),
             InlineKeyboardButton('About😎', callback_data='about')
@@ -67,7 +67,7 @@ async def start(client, message):
             InlineKeyboardButton('❔ How To Use Me ❔', url='http://t.me/Elon_Muskbot_M2')
             ],[
             InlineKeyboardButton('Search Here🔎', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Mydev🧑‍💻', url='https://t.me/EvaMariaUpdates')
+            InlineKeyboardButton('Mydev🧑‍💻', url='https://t.me/ask_admin01')
             ],[
             InlineKeyboardButton('Help⚙', callback_data='help'),
             InlineKeyboardButton('About😎', callback_data='about')
