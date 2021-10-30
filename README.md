@@ -54,7 +54,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/EvamariaTG/evamaria/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/m2Link/M2FILTER-IMDb-Elon-Musk/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -104,7 +104,7 @@ python3 bot.py
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/EvaMariaUpdates)
 
 ## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
+* [![M2](https://img.shields.io/static/v1?label=M2&message=devs&color=critical)](https://telegram.dog/admin_01)
 
 
 ## Thanks to 
