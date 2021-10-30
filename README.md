@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="assets/logo.jpg" alt="Elon Musk Logo">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>Elon Musk Bot</b>
 </h1>
 
 
