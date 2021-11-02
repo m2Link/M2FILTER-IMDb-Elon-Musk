@@ -15,6 +15,7 @@ Here is the Help For My Commands."""
 ✯ Support Group: <a href='https://t.me/m2botzsupport'>Click Here</a>
 ✯ Update Channel: <a href='https://t.me/m2botz'>Click Here</a>
 ✯ Build status: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
+✯ Credit : Everyone in this journey
 ✯ Quote : The way to get started is to quit talking and begin doing."""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
@@ -27,9 +28,9 @@ Here is the Help For My Commands."""
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. elon musk should have admin privillage.
-2. only admins can add filters in a chat.
-3. alert buttons have a limit of 64 characters.
+1. Elon Musk Should Have Admin Privillage.
+2. Only Admins Can Add Filters in a Chat.
+3. Alert Buttons Have a Limit Of 64 Characters.
 
 <b>Commands and Usage:</b>
 • /filter - <code>add a filter in chat</code>
@@ -38,7 +39,7 @@ Here is the Help For My Commands."""
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Eva Maria Supports both url and alert inline buttons.
+- Elon Musk Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
