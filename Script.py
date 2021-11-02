@@ -11,7 +11,6 @@ Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provid
 Here is the Help For My Commands."""
     ABOUT_TXT = """✯ My Name: <a href='https://t.me/Elon_Musk_M2Bot'>Elon Musk</a>
 ✯ Creator: <a href='https://t.me/ask_admin01'>M2</a>
-✯ Credit : Everyone in this journey
 ✯ Support Group: <a href='https://t.me/m2botzsupport'>Click Here</a>
 ✯ Update Channel: <a href='https://t.me/m2botz'>Click Here</a>
 ✯ Build status: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
